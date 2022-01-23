@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rafkev
+- 👋 Hi, I’m @Rafkev My name is Awosan Raphael Kolawole
 - 👀 I’m interested in collaboration 
 - 🌱 I am a full stack developer
 - 💞️ I’m looking to collaborate on software development 
