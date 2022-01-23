@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafkev
 - 👀 I’m interested in collaboration 
-- 🌱 I’m currently learning python 
+- 🌱 I am a full stack developer
 - 💞️ I’m looking to collaborate on software development 
 - 📫 How to reach me tolakins@gmail.com 
 
