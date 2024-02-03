@@ -2,7 +2,7 @@
 - 👀 I’m interested in collaboration 
 - 🌱 I am a Full Stack Developer/ A Certified Produt Manager
 - 💞️ I’m looking to collaborate on software development, project and product management.
-- 📫 How to reach me tolakins@gmail.com 
+- 📫 How to reach me raphaelosanmi@gmail.com
 
 <!---
 Rafkev/Rafkev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
