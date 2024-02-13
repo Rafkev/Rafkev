@@ -4,7 +4,7 @@
 - 📫 How to reach me raphaelosanmi@gmail.com
 - 👀 Please! Let's not give up, because it is not over until we win.
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafkev&theme=radical)
 
 
 <!---
