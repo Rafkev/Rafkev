@@ -5,7 +5,7 @@
 - 👀 Please! Let's not give up, because it is not over until we win.
 
 
-https://github-readme-stats.vercel.app/api?Rafkev= &theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Rafkev= &theme=radical)
 
 <!---
 Rafkev/Rafkev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
