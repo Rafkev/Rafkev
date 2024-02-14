@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Rafkev - Oluwasanmi Raphael Kolawole
 - 🌱 I am a Full Stack Developer/ A Certified Product Manager + CEO @ www.mywphost.com powered by AidPal Ltd 
-- 👀 I love writing codes to solve problems, reading to learn, writing to take note, researching to find out more and teaching to impact.
+- 👀 I code to solve problems, read to learn, write to take notes, research to find out more and teaching to impact.
 - 💞️ I’m looking to collaborate on software development, project and product management.
 - 📫 How to reach me raphaelosanmi@gmail.com
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafkev&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafkev)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafkev)](https://github.com/anuraghazra/github-readme-stats)
 
 
