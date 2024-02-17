@@ -3,7 +3,7 @@
 - 👀 I code to solve problems, read to learn, write to take notes, research to find out more and teach to impact.
 - 💞️ I’m looking to collaborate on software development, project and product management.
 - 📫 How to reach me raphaelosanmi@gmail.com
-- 👋 I give 3 hours free consultation on platform solution and product management for startup business 
+- 👋 I give 3 hours free consultation on platform solution and product management for startup businesses
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafkev&theme=radical)
