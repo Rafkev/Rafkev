@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Oluwasanmi Raphael Kolawole
+- 👋 Hi, My name is Raphael Kolawole Oluwasanmi 
 - 🌱 I am a Full Stack Developer/ A Certified Product Manager + CEO @ www.mywphost.com powered by AidPal Ltd 
 - 👀 I code to solve problems, read to learn, write to take notes, research to find out more and teach to impact.
 - 💞️ I’m looking to collaborate on software development, project and product management.
