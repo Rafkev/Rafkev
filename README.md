@@ -2,8 +2,9 @@
 - 🌱 I am a Full Stack Developer/ A Certified Product Manager & the CEO @ www.mywphost.com powered by AidPal Ltd 
 - 👀 I code to solve problems, read to learn, write to take notes, research to find out more and teach to impact.
 - 💞️ I’m looking to collaborate on software development and product management.
-- 📫 How to reach me raphaelosanmi@gmail.com
 - 👋 I give 3 hours free consultation on platform solution and product management for startup businesses
+- 📫 How to reach me raphaelosanmi@gmail.com
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafkev&theme=radical)
