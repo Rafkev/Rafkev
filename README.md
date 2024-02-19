@@ -6,7 +6,7 @@
 - 📫 How to reach me raphaelosanmi@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafkev&theme=radical)
-</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafkev)](https://github.com/anuraghazra/github-readme-stats)
 
 
