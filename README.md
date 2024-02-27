@@ -46,7 +46,7 @@
 ### 🧰 My Educational Youtube Channel
 
 <div align="left">
-<a href="https://www.youtube.com/channel/UCXJLum_eZ6BJj4m4Dy73rxQ/edit"><img src="https://img.youtube.com/vi/o4UrU77DLtI/sddefault.jpg" alt="YouTube Channel"></a>
+<a href="https://www.youtube.com/channel/UCXJLum_eZ6BJj4m4Dy73rxQ/edit"><img src="https://img.youtube.com/vi/p2vpqKBPj4U/sddefault.jpg" alt="YouTube Channel"></a>
 </div>
 
 
