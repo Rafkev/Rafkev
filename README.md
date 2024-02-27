@@ -10,7 +10,7 @@
 - 👀 Get help with code snippet from Raphael and Friends @ www.codebyrafkev.info
 - 📫 How to reach me raphaelosanmi@gmail.com, raphael@mywphost.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafkev&theme=radical)
+---
 
 ### 🧰 Languages and Tools
 
@@ -31,6 +31,11 @@
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+#
+
+
+
 
 
 <!---
