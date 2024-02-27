@@ -47,8 +47,7 @@
  <summary><h3>👨‍💻 What I do now</h3></summary>
 Passionate software engineer, dedicated product manager, and visionary CEO at www.mywphost.com, powered by AidPal. Transforming ideas into innovative solutions that empower businesses and elevate user experiences. Let's build the future together, one line of code at a time. 🚀 #TechLeader #ProductInnovator #CEO
 
-[website]: https://mywphost.com
-[youtube]: https://youtube.com/rafkev
+
 
 
 
