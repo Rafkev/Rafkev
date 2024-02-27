@@ -42,9 +42,9 @@
 
 #
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Rafkev&theme=gruvbox&border_radius=4.5) -->
 
 
+#
 
 ### 💞️ My Content
 
@@ -52,7 +52,7 @@
 <a href="https://www.youtube.com/channel/UCXJLum_eZ6BJj4m4Dy73rxQ/edit"><img src="https://img.youtube.com/vi/p2vpqKBPj4U/sddefault.jpg" alt="YouTube Channel"></a>
 </div>
 
-
+#
 
 <!---
 Rafkev/Rafkev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
