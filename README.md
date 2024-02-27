@@ -20,7 +20,6 @@
 
 #
 
----
 
 ### 🧰 Most Used Languages,Tools
 
@@ -40,9 +39,8 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
 #
-
+### 🧰 My Youtube Channel
 
 <div align="left">
 <a href="https://www.youtube.com/channel/UCXJLum_eZ6BJj4m4Dy73rxQ/edit"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="YouTube Channel"></a>
