@@ -44,9 +44,9 @@
 </br>
 
 #
-  ### 🏄‍♂️ My Content on
+  ### 🏄‍♂️ Click to view my Content 
 
-**`Coding / Product & Project Management)`**
+**`Coding/ Product,Project Management)`**
 
 <div align="left">
 <a href="https://www.youtube.com/channel/UCXJLum_eZ6BJj4m4Dy73rxQ/edit"><img src="https://img.youtube.com/vi/p2vpqKBPj4U/sddefault.jpg" alt="YouTube Channel"></a>
