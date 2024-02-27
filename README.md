@@ -10,6 +10,16 @@
 - 👀 Get help with code snippet from Raphael and Friends @ www.codebyrafkev.info
 - 📫 How to reach me raphaelosanmi@gmail.com, raphael@mywphost.com
 
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+
 ---
 
 ### 🧰 Languages and Tools
