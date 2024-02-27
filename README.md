@@ -1,6 +1,6 @@
 # 🏄‍♂️ RK Oluwasanmi
 
-**`Digital Craftsman ( Full Stack Developer/Product Manager/Reseaher)`**
+**`Digital Craftsman ( Full Stack Developer/Product Manager/Researher)`**
 
 - 👋 Hi, My name is Raphael Kolawole Oluwasanmi.
 - 🌱 I am a Full Stack Developer/ A Certified Product Manager & the CEO @ www.mywphost.com powered by AidPal Ltd 
