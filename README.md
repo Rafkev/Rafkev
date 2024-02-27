@@ -21,7 +21,7 @@
 #
 
 
-### 🧰 Most Used Languages,Tools 
+### 🧰 Some Used Languages,Tools 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -46,7 +46,7 @@
 #
   ### 🏄‍♂️ My Content on
 
-**`Coding /Product & Project Management)`**
+**`Coding / Product & Project Management)`**
 
 <div align="left">
 <a href="https://www.youtube.com/channel/UCXJLum_eZ6BJj4m4Dy73rxQ/edit"><img src="https://img.youtube.com/vi/p2vpqKBPj4U/sddefault.jpg" alt="YouTube Channel"></a>
