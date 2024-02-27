@@ -44,8 +44,8 @@
 #
 
 
-<div align="center">
- <left> <a href="https://www.youtube.com/channel/UCXJLum_eZ6BJj4m4Dy73rxQ/edit"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="YouTube Channel"></a></left> 
+<div align="left">
+<a href="https://www.youtube.com/channel/UCXJLum_eZ6BJj4m4Dy73rxQ/edit"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="YouTube Channel"></a>
 </div>
 
 
