@@ -3,8 +3,8 @@
 **`(Full Stack Developer/Product Manager/Researcher)`**
 
 - 👋 Hi, My name is Raphael Kolawole Oluwasanmi.
-- 🌱 I am a Full Stack Developer/ A Certified Product Manager & the CEO @ www.mywphost.com powered by AidPal Ltd 
-- 👀 I code to solve problems, read to learn, write to take notes, research to find out more and teach to impact.
+- 👀 I am a Passionate software engineer, dedicated product manager, and visionary CEO at www.mywphost.com, powered by AidPal. Transforming ideas into innovative solutions that empower 
+      businesses and elevate user experiences. Let's build the future together, one line of code at a time. 🚀 #TechLeader #ProductInnovator #CEO
 - 💞️ I’m looking to collaborate on software development and product management.
 - 👋 I give 3 hours free consultation on platform solution and product management for startup businesses
 - 👀 Get help with code snippet from Raphael and Friends @ www.codebyrafkev.info
@@ -43,9 +43,8 @@
 
 #
 
-<details>
- <summary><h3>👨‍💻 What I do now</h3></summary>
-Passionate software engineer, dedicated product manager, and visionary CEO at www.mywphost.com, powered by AidPal. Transforming ideas into innovative solutions that empower businesses and elevate user experiences. Let's build the future together, one line of code at a time. 🚀 #TechLeader #ProductInnovator #CEO
+
+
 
 
 
