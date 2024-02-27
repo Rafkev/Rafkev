@@ -1,4 +1,4 @@
-# 🏄‍♂️ RK Oluwasanmi
+  ### 🏄‍♂️ RK Oluwasanmi
 
 **`(Full Stack Developer/Product Manager/Researcher)`**
 
@@ -22,7 +22,7 @@
 
 ---
 
-### 🧰 Most Used Languages and Tools
+### 🧰 Most Used Languages,Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
