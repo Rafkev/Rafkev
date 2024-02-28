@@ -20,6 +20,10 @@
 
 ![Rafkev's Stats](https://github-readme-stats.vercel.app/api?username=Rafkev&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
+![Rafkev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rafkev&theme=dark&hide_border=false)
+
+![Rafkev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafkev&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 #
 
 
