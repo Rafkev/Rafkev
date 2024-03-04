@@ -3,12 +3,10 @@
 **`(Full Stack Developer/Product Manager/Researcher)`**
 
 - 👋 Hi, My name is Raphael Kolawole Oluwasanmi.
-- 👀 I am a Passionate Software Engineer, dedicated Product Manager, and visionary CEO at www.mywphost.com, powered by AidPal. We are transforming ideas into innovative solutions that empower 
-      businesses and elevate user experiences. Let's build the future together, one line of code at a time. 🚀 #TechLeader #ProductInnovator #CEO
+- 👀 I am a Passionate Software Engineer, dedicated Product and Project Manager. 
 - 💞️ I’m looking to collaborate on software development and product management.
 - 👋 I give 3 hours free consultation on platform solution and product management for startup businesses
-- 👀 Get help with code snippet from Raphael and Friends @ www.codebyrafkev.info
-- 📫 How to reach me raphaelosanmi@gmail.com, raphael@mywphost.com
+- 📫 How to reach me raphaelosanmi@gmail.com
 
 #
 
