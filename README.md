@@ -2,7 +2,7 @@
 
 **`(Full Stack Developer/Product Manager/Researcher)`**
 
-- 👋 Hi, My name is Raphael Kolawole Oluwasanmi(Formally Awosan).
+- 👋 Hi, My name is Raphael Kolawole Oluwasanmi.
 - 👀 I am a Passionate Software Engineer, dedicated Product and Project Manager. 
 - 💞️ I’m looking to collaborate on software development and product management.
 - 👋 I give 3 hours free consultation on platform solution and product management for startup businesses
