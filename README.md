@@ -3,7 +3,7 @@
 **`(Full Stack Developer/Product Manager/Researcher)`**
 
 - 👋 Hi, My name is Raphael Kolawole Oluwasanmi.
-- 👀 I am a passionate Software Engineer,a certified Product and Project Manager, a dedicated researcher. 
+- 👀 Raphael started as a Software Engineer over ten years ago, now a certified Product and Project Manager, a dedicated researcher.
 - 💞️ I’m looking to collaborate on software development and product management.
 - 👋 I give 3 hours free consultation on platform solution and product management for startup businesses
 - 📫 How to reach me raphaelosanmi@gmail.com
