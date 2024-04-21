@@ -1,6 +1,6 @@
   ### 🏄‍♂️ RK Oluwasanmi
 
-**`(Full Stack Developer/Product Manager/Researcher)`**
+**`(Full Stack Developer/Certified Project Manager/ Researcher)`**
 
 - 👋 Hi, My name is Raphael Kolawole Oluwasanmi.
 - 👀 I started as a Software Engineer over ten years ago, now a certified research Project Manager. 
