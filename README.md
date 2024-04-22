@@ -7,7 +7,7 @@
 - 💞️ Sure! We can collaborate on Sofware Develoment, Research, Project and Product management.
 - 👋 I am priviledged to have taught over 500+ students coding, feel free to say hi @ raphaelosanmi@gmail.com for support.
   <div align="left">
-<a href="https://www.youtube.com/channel/UCXJLum_eZ6BJj4m4Dy73rxQ/edit"><img src="https://github.com/Rafkev/Rafkev/blob/main/Testimonial2.png" alt="YouTube Channel"></a>
+<a href="https://www.youtube.com/channel/UCXJLum_eZ6BJj4m4Dy73rxQ/edit"><img src="https://github.com/Rafkev/Rafkev/blob/main/Testimonial3.png" alt="YouTube Channel"></a>
 </div>
 
 ### 📊 Stats
