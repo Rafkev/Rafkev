@@ -5,15 +5,11 @@
 - 👋 Hi, My name is Raphael Kolawole Oluwasanmi.
 - 👀 I started as a Software Engineer over ten years ago, now a certified software development & research Project Manager. 
 - 💞️ Sure!We can collaborate on Sofware Develoment, Research, Project and Product management.
-- 👋 I am priviledged to have taught over 500+ students programming, feel free to contact me for support.
+- 👋 I am priviledged to have taught over 500+ students programming, feel free to contact me @ raphaelosanmi@gmail.com for support.
 - 
   <div align="left">
 <a href="https://www.youtube.com/channel/UCXJLum_eZ6BJj4m4Dy73rxQ/edit"><img src="https://img.youtube.com/vi/p2vpqKBPj4U/sddefault.jpg" alt="YouTube Channel"></a>
 </div>
-
-- 📫 How to reach me raphaelosanmi@gmail.com
-
-#
 
 ### 📊 Stats
 
