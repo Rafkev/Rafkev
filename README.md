@@ -6,7 +6,6 @@
 - 👀 I started as a Software Engineer over ten years ago, now a certified software development & research Project Manager. 
 - 💞️ Sure! We can collaborate on Sofware Develoment, Research, Project and Product management.
 - 👋 I am priviledged to have taught over 500+ students coding, feel free to say hi @ raphaelosanmi@gmail.com for support.
-  
   <div align="left">
 <a href="https://www.youtube.com/channel/UCXJLum_eZ6BJj4m4Dy73rxQ/edit"><img src="https://github.com/Rafkev/Rafkev/blob/main/Testimonial2.png" alt="YouTube Channel"></a>
 </div>
