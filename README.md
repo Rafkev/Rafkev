@@ -10,6 +10,10 @@
 
 #
 
+<div align="left">
+<a href="https://www.youtube.com/channel/UCXJLum_eZ6BJj4m4Dy73rxQ/edit"><img src="https://img.youtube.com/vi/p2vpqKBPj4U/sddefault.jpg" alt="YouTube Channel"></a>
+</div>
+
 ### 📊 Stats
 
 ![Rafkev's Stats](https://github-readme-stats.vercel.app/api?username=Rafkev&theme=dark&show_icons=true&hide_border=false&count_private=true)
