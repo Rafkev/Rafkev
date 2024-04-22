@@ -5,7 +5,7 @@
 - 👋 Hi, My name is Raphael Kolawole Oluwasanmi.
 - 👀 I started as a Software Engineer over ten years ago, now a certified software development & research Project Manager. 
 - 💞️ Sure!We can collaborate on Sofware Develoment, Research, Project and Product management.
-- 👋 I am priviledged to have mentored over 100+ Devs, feel free to contact me for support.
+- 👋 I am priviledged to have taught over 500+ students programming, feel free to contact me for support.
 - 📫 How to reach me raphaelosanmi@gmail.com
 
 #
