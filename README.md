@@ -10,7 +10,7 @@
 <a href="#"><img src="https://github.com/Rafkev/Rafkev/blob/main/Testimonial3.png" alt="YouTube Channel"></a>
 </div>
 
-
+[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
 
 ### 📊 Stats
 
