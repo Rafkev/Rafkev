@@ -22,7 +22,7 @@
 <body>
 <h2>Click play button to play video</h2>
 <video controls>
-    <source  src="./main/istockphoto-501925024-640_adpp_is.mp4">
+    <source  src="[./main/istockphoto-501925024-640_adpp_is.mp4](https://github.com/Rafkev/Rafkev/blob/main/istockphoto-501925024-640_adpp_is.mp4)">
 </video>
 </body>
 </html>
