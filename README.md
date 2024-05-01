@@ -14,6 +14,19 @@
 <a href="#"><img src="https://github.com/Rafkev/Rafkev/blob/main/istockphoto-501925024-640_adpp_is.mp4" alt="YouTube Channel"></a>
 </div>
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h2>Click play button to play video</h2>
+<video controls>
+    <source  src="./main/istockphoto-501925024-640_adpp_is.mp4">
+</video>
+</body>
+</html>
+
 ### 📊 Stats
 
 ![Rafkev's Stats](https://github-readme-stats.vercel.app/api?username=Rafkev&theme=dark&show_icons=true&hide_border=false&count_private=true)
