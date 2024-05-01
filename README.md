@@ -10,6 +10,7 @@
 <a href="#"><img src="https://github.com/Rafkev/Rafkev/blob/main/Testimonial3.png" alt="YouTube Channel"></a>
 </div>
 
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 ### 📊 Stats
 
