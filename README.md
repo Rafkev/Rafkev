@@ -10,9 +10,6 @@
 <a href="#"><img src="https://github.com/Rafkev/Rafkev/blob/main/Testimonial3.png" alt="YouTube Channel"></a>
 </div>
 
-https://user-images.githubusercontent.com/Rafkev/Rafkev/blob/main/istockphoto-501925024-640_adpp_is.mp4
-
-https://github.com/Rafkev/Rafkev/blob/main/istockphoto-501925024-640_adpp_is.mp4
 
 ### 📊 Stats
 
