@@ -3,7 +3,7 @@
 **`(Software Development Project Manager)`**
 
 - 👋 Hi, My name is Raphael Kolawole Oluwasanmi.
-- 👀 I am a Certified Software Development Project Manager. 
+- 👀 I am a Certified Software Development Project & Product Manager. 
 - 💞️ Sure! We can collaborate on Sofware Develoment, Research, Project and Product management.
 - 👋 I am priviledged to have taught over 500+ students coding, feel free to say hi @ raphaelosanmi@gmail.com for support.
   <div align="left">
