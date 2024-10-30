@@ -3,9 +3,9 @@
 **`(Software Development Project Manager)`**
 
 - 👋 Hi, My name is Raphael Kolawole Oluwasanmi.
-- 👀 I am a Certified Software Development Project & Product Manager. 
-- 💞️ Sure! We can collaborate on Sofware Develoment, Research, Project and Product management.
-- 👋 I am priviledged to have taught over 500+ students coding, feel free to say hi @ raphaelosanmi@gmail.com for support.
+- 👀 I am a Certified Technical Product Manager. 
+- 💞️ Sure! We can collaborate on Product management.
+- 👋 I also love teaching
   <div align="left">
 <a href="#"><img src="https://github.com/Rafkev/Rafkev/blob/main/Testimonial3.png" alt="YouTube Channel"></a>
 </div>
