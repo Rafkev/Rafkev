@@ -1,6 +1,6 @@
   ### 🏄‍♂️ RK Oluwasanmi
 
-**`(Software Development Project Manager)`**
+**`(Product Guy)`**
 
 - 👋 Hi, My name is Raphael Kolawole Oluwasanmi.
 - 👀 I am a Certified Technical Product Manager. 
