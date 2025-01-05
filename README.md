@@ -2,7 +2,7 @@
 
 ### 🏅 Certified Technical Product Manager 
 
-I am an experienced and certified Technical Product Manager, passionate about creating impactful digital products. I specialize in managing technical projects from inception to deployment, ensuring seamless delivery and maximizing value for end-users. My background in software development across various languages and frameworks enables me to bridge the gap between development and product strategy effectively.
+I am an experienced and certified Technical Product Manager, passionate about creating impactful digital products,ensuring seamless delivery and maximizing value for end-users. My background in software development across various languages and frameworks enables me to bridge the gap between development and product strategy effectively.
 
 ---
 
