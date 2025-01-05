@@ -36,7 +36,7 @@ I am an experienced and certified Technical Product Manager, passionate about cr
 ### 🏆 Achievements & Certifications
 
 - **Certified Technical Product Manager** 🏅
-- **10000+ Contributions** to open-source projects
+- **1000+ Contributions** to open-source projects
 - Developed several projects using **React**, **NodeJS**, and **Angular**.
 - Experience managing cross-functional teams in delivering high-quality products
 
