@@ -55,7 +55,7 @@ I am an experienced and certified Technical Product Manager, passionate about cr
 
 ### ⚡ Fun Fact
 
-When I'm not managing projects or coding, you'll find me exploring Linux command-line tricks or reading up on the latest tech trends!
+If you give a guitar and you ask me to sing, you will mistake me for a professional musician. - I love music
 
 ---
 
