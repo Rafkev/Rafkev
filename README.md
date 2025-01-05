@@ -56,7 +56,7 @@ I am an experienced and certified Technical Product Manager, passionate about cr
 
 ### ⚡ Fun Fact
 
-If you give a guitar and you ask me to sing, you will mistake me for a professional musician. - I love music
+If you give me a guitar, and ask me to sing, you will mistake me for a professional musician. - I love music
 
 ---
 
