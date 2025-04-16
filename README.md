@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm R.K Oluwasanmi
 
-### 🏅 Certified Technical Product Manager 
+### 🏅 Certified Technical Product Owner 
 
-I am an experienced and certified Technical Product Manager, passionate about creating impactful digital products,ensuring seamless delivery and maximizing value for end-users. My background in software development across various languages and frameworks enables me to bridge the gap between development and product strategy effectively.
+I am an experienced and certified Technical Product Owner , passionate about creating impactful digital products,ensuring seamless delivery and maximizing value for end-users. My background in software development across various languages and frameworks enables me to bridge the gap between development and product strategy effectively.
 
 ---
 
@@ -35,7 +35,7 @@ I am an experienced and certified Technical Product Manager, passionate about cr
 
 ### 🏆 Achievements & Certifications
 
-- **Certified Technical Product Manager** 🏅
+- **Certified Technical Product Owner** 🏅
 - **1000+ Contributions** to open-source projects
 - **I led** the development, deployment and enhancement of award winning and successful products.
 - I have helped over **2000+ young people** transition to Tech
