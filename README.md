@@ -43,6 +43,20 @@ I am an experienced and certified Technical Product Owner , passionate about cre
 - Experience managing cross-functional teams in delivering high-quality products
 - Certificate of Excellence in Peer Reviewing - Asian Journal of Research in Computer Science
 
+### 🛠️ Core Technical Skills
+
+- Agile Product Management (Scrum, SAFe, Kanban)
+- Product Backlog & Roadmap Management
+- Jira & Confluence
+- API Integration & Documentation (REST, Postman)
+- SQL & Data Analysis (Google Analytics, Mixpanel)
+- Git & GitHub (Version Control)
+- Figma (UX/UI Collaboration)
+- A/B Testing & Experimentation
+- Technical Documentation (BRD, PRD)
+- Cloud & DevOps Awareness (CI/CD, AWS Basics)
+...and more: Tableau, Hotjar, Miro, Salesforce, Contentful, Notion, User Research, SDLC, Wireframing, Post-launch Monitoring, CMS tools.
+
 ---
 
 ### 📫 Connect with Me
